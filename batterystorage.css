@@ -1,0 +1,66 @@
+.hero{
+    background-image:url(./media/image/microscope.png) ;
+    width: 100%;
+    background-size: cover;
+    height: 80vh;
+}
+h1{
+    font-family: 'Sen', sans-serif;
+}
+.hero-head{
+    padding-top: 250px;
+}
+.pattern{
+    width: 100%; 
+}
+p{
+    font-family: 'Inter', sans-serif;
+} 
+footer{
+    background-color: #232536;
+ }
+ footer h1{
+     font-size: 36px;
+     font-weight: 700;
+     line-height: 48px;
+     letter-spacing: -2px;
+     text-align: left;
+     font-family: 'Sen', sans-serif;
+ }
+ .footercard{
+     background-color: #2e3040;   
+ }
+ .Footerbtn{
+     background-color: #FFD050;
+ 
+ }
+ .Footerinp{
+     background-color: transparent;
+     border: 0.5px solid #FFD050;
+ }
+ .Footeraddress img{
+     color: white;
+ }
+ 
+ .btn{
+     font-size: 13px;
+ }
+     p{
+         font-family: 'Inter', sans-serif;
+ } 
+ h6{
+     font-family: 'Inter', sans-serif; 
+ }
+ /* media query for phone */
+ @media only screen and (max-width:600px) {
+     .inputsize{
+      width: 100%;
+     } 
+     h1{
+         font-family: 'Sen', sans-serif;
+         font-size: 50px;
+         margin-top: -0px;
+     }
+    
+  }
+ 
