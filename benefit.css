@@ -58,8 +58,11 @@ footer{
      h1{
          font-family: 'Sen', sans-serif;
          font-size: 50px;
-         margin-top: -100px;
+         margin-top: -0px;
      }
+.fixx{
+    margin-top: 155px;
+}
     
   }
  
